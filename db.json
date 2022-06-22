@@ -1,11 +1,11 @@
 {
-  "posts": [ 
+  "posts": [
     {
       "id": 1,
-      "title": "Simentari"
-    }   
+      "title": "hello"
+    }
   ],
   "profile": {
-    "name": "trial json"
+    "name": "typicode"
   }
 }

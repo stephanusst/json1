@@ -9,10 +9,12 @@
       "title": "Metro"
     }
   ],
-  "profile": {
-    "name": "Stephanus"
-  },
-  {
-    "name": "Adi"
-  }  
+  "profile": [
+    {
+      "name": "Stephanus"
+    },
+    {
+      "name": "Adi"
+    }  
+  ]
 }

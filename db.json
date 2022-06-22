@@ -2,11 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "Simentari"
+      "title": "Simentari",
       "id": 2,
       "title": "Stephanus"
-    }
-    
+    }   
   ],
   "profile": {
     "name": "trial json"

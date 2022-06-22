@@ -2,8 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "stephanus tandjung"
+      "title": "Simentari"
     }
+    {
+      "id": 2,
+      "title": "Stephanus"
+    }
+    
   ],
   "profile": {
     "name": "trial json"

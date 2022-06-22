@@ -1,7 +1,8 @@
 {
-  "posts": [ {
+  "posts": [ 
+    {
       "id": 1,
-      "title": "Simentari",
+      "title": "Simentari"
     }   
   ],
   "profile": {
